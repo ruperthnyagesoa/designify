@@ -4,7 +4,7 @@ Designify is built with React.
 
 ## Demo
 
-[Link]()
+[Link](https://designify-me.netlify.app)
 
 ## Getting Started
 
