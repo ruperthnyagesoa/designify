@@ -27,7 +27,7 @@ const Footer = () => {
 			<SocialMedia>
 				<SocialMediaWrap>
 					<WebsiteRights>
-						&copy; Copyright 2022, Designify. All Rights Reserved
+						&copy; Copyright 2023, Designify. All Rights Reserved
 					</WebsiteRights>
 					<SocialIcons>
 						<SocialIconLink
